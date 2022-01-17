@@ -31,11 +31,11 @@ const Header = () => {
         <div className="text-white flex items-center text-xs space-x-6 mx-6 whitespace-nowrap ">
           <div className="link">
             <p>Hello, Jimmy Lo</p>
-            <p className="font-extrabold md:text-sm">Account& Lists</p>
+            <p className="font-extrabold md:text-sm">Account&amp; Lists</p>
           </div>
           <div className="link">
             <p>Returns</p>
-            <p className="font-extrabold md:text-sm">& Orders</p>
+            <p className="font-extrabold md:text-sm">&amp; Orders</p>
           </div>
           <div className="relative link flex items-center">
             <span className="absolute top-0 right-0 md:right-10 h-4 w-4 bg-yellow-400 text-center rounded-full text-black font-bold">
@@ -57,13 +57,13 @@ const Header = () => {
         </p>
         <p className="link">Prime Video</p>
         <p className="link">Amazon Business</p>
-        <p className="link">Today's Deals</p>
+        <p className="link">Today&apos;s Deals</p>
         <p className="link hidden lg:inline-flex">Electronics</p>
-        <p className="link hidden lg:inline-flex">Food & Grocery</p>
+        <p className="link hidden lg:inline-flex">Food &amp; Grocery</p>
         <p className="link hidden lg:inline-flex">Prime</p>
         <p className="link hidden lg:inline-flex">Buy Again</p>
         <p className="link hidden lg:inline-flex">Shopper Toolkit</p>
-        <p className="link hidden lg:inline-flex">Health & Personal Care</p>
+        <p className="link hidden lg:inline-flex">Health &amp; Personal Care</p>
       </div>
     </header>
   );
