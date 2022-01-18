@@ -1,3 +1,4 @@
+/* eslint-disable react/display-name */
 import { StarIcon } from "@heroicons/react/solid";
 import Image from "next/image";
 import React, { forwardRef } from "react";
