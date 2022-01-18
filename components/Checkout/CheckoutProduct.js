@@ -80,4 +80,6 @@ const CheckoutProduct = forwardRef(
   }
 );
 
+CheckoutProduct.displayName = "CheckoutProduct";
+
 export default CheckoutProduct;
