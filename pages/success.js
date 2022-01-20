@@ -17,9 +17,9 @@ const Success = () => {
             </h1>
           </div>
           <p>
-            Thank you for shopping with us. We'll send a confirmation once your
-            item has shipped. If you would like to check the status of order(s),
-            please press the link below.
+            Thank you for shopping with us. We&lsquo;ll send a confirmation once
+            your item has shipped. If you would like to check the status of
+            order(s), please press the link below.
           </p>
           <button
             onClick={() => router.push("/orders")}
